@@ -1,0 +1,3 @@
+START ../big2.level
+MOVE N 1
+MOVE E 3
